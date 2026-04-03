@@ -1,0 +1,2 @@
+# arisu
+My first repository
